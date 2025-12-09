@@ -1,0 +1,55 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1764803656455,
+      "tag": "0000_flawless_inhumans",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1764806467428,
+      "tag": "0001_superb_gauntlet",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1764807190983,
+      "tag": "0002_exotic_misty_knight",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1764858800763,
+      "tag": "0003_broad_archangel",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1764859914108,
+      "tag": "0004_tearful_gravity",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1764864606075,
+      "tag": "0005_large_rick_jones",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1765041225974,
+      "tag": "0006_needy_gladiator",
+      "breakpoints": true
+    }
+  ]
+}
